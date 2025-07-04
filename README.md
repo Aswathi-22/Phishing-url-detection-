@@ -107,6 +107,38 @@ Frameworks: TensorFlow, Keras, Scikit-learn
 
 ---
 
+
+## 🔧 Installation
+Install the required Python libraries using:
+pip install -r requirements.txt
+
+---
+
+## 🚀 Usage
+
+1. Open `phishing_url_detection.ipynb` in Google Colab or Jupyter Notebook.  
+2. Upload the `sample_data.csv` file.  
+3. Run all cells to train and test the model.
+
+---
+
+## 📊 Result
+
+Test Accuracy: **0.00**
+
+_This model was trained on a small sample dataset just for demonstration purposes, so accuracy is very low._
+
+---
+
+## 📁 Files Included
+
+- `phishing_url_detection.ipynb` – LSTM-based notebook  
+- `requirements.txt` – Python libraries needed  
+- `sample_data.csv` – Demo dataset  
+
+---
+
+
 ### 📫 Contact
 
 Feel free to connect:
